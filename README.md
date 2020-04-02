@@ -1,7 +1,7 @@
 # Homework 05 Third-Party APIs: Work Day Scheduler
 
 Christina Leung
-
+https://cgleungsf.github.io/HW5_WorkDayScheduler/
 
 ## Description
 
@@ -15,7 +15,6 @@ JavaScript
 jQuery
 Moment.js
 Font Awesome
-
 
 ## Challenges
 
